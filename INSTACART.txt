@@ -1,0 +1,442 @@
+
+Instacart
+
+instacart.com
+
+In Scope
+
+api.instacart.com
+www.instacart.com
+admin.instacart.com
+shoppers.instacart.com
+*.instacart.com
+*.instacart.tools
+
+Out of Scope
+
+brand.instacart.com
+careers.instacart.com
+carrotstore.instacart.com
+corporate.instacart.com
+covidresponse.instacart.com
+design.instacart.com
+*.email.instacart.com
+life.instacart.com
+news.instacart.com
+tech.instacart.com
+
+
+
+Búsqueda con whois para verificar otros sitios web registrados. Este comando nos muestra el rresultado de whois para instacart.com.
+
+   Domain Name: INSTACART.COM
+   Registry Domain ID: 196775_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.registrar.amazon.com
+   Registrar URL: http://registrar.amazon.com
+   Updated Date: 2020-07-01T00:55:11Z
+   Creation Date: 1996-10-31T05:00:00Z
+   Registry Expiry Date: 2029-10-30T04:00:00Z
+   Registrar: Amazon Registrar, Inc.
+   Registrar IANA ID: 468
+   Registrar Abuse Contact Email: abuse@amazonaws.com
+   Registrar Abuse Contact Phone: +1.2067406200
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-132.AWSDNS-16.COM
+   Name Server: NS-1394.AWSDNS-46.ORG
+   Name Server: NS-1943.AWSDNS-50.CO.UK
+   Name Server: NS-589.AWSDNS-09.NET
+   DNSSEC: unsigned
+
+
+Domain Name: instacart.com
+Registry Domain ID: 196775_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.registrar.amazon.com
+Registrar URL: https://registrar.amazon.com
+Updated Date: 2020-07-01T00:55:12.246Z
+Creation Date: 1996-10-31T05:00:00Z
+Registrar Registration Expiration Date: 2029-10-30T04:00:00Z
+Registrar: Amazon Registrar, Inc.
+Registrar IANA ID: 468
+Registrar Abuse Contact Email: abuse@amazonaws.com
+Registrar Abuse Contact Phone: +1.2067406200
+Reseller:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: renewPeriod https://icann.org/epp#renewPeriod
+Registry Registrant ID:
+Registrant Name: Domain Administrator
+Registrant Organization: Maplebear Inc.
+Registrant Street: 50 Beale St Suite 600
+Registrant City: San Francisco
+Registrant State/Province: CA
+Registrant Postal Code: 94105
+Registrant Country: US
+Registrant Phone: +1.9108172278
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: domains-contact@instacart.com
+Registry Admin ID:
+Admin Name: Domain Administrator
+Admin Organization: Maplebear Inc.
+Admin Street: 50 Beale St Suite 600
+Admin City: San Francisco
+Admin State/Province: CA
+Admin Postal Code: 94105
+Admin Country: US
+Admin Phone: +1.9108172278
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: domains-contact@instacart.com
+Registry Tech ID:
+Tech Name: Domain Administrator
+Tech Organization: Maplebear Inc.
+Tech Street: 50 Beale St Suite 600
+Tech City: San Francisco
+Tech State/Province: CA
+Tech Postal Code: 94105
+Tech Country: US
+Tech Phone: +1.9108172278
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: domains-contact@instacart.com
+Name Server: ns-132.awsdns-16.com
+Name Server: ns-1394.awsdns-46.org
+Name Server: ns-1943.awsdns-50.co.uk
+Name Server: ns-589.awsdns-09.net
+DNSSEC: unsigned
+
+
+
+LANZO 
+nslookup instacart.com
+
+RESPUESTA
+Server:         10.0.2.3
+Address:        10.0.2.3#53
+
+Non-authoritative answer:
+Name:   instacart.com
+Address: 52.201.17.996
+Name:   instacart.com
+Address: 18.206.51.107
+Name:   instacart.com
+Address: 18.208.241.4
+Name:   instacart.com
+Address: 54.152.74.152
+Name:   instacart.com
+Address: 3.210.244.109
+Name:   instacart.com
+Address: 3.212.180.48
+Name:   instacart.com
+Address: 100.25.71.223
+Name:   instacart.com
+Address: 100.24.154.81
+
+
+HERRAMIENTA CENSYS
+
+ip	52.201.167.99
+ubicación.continente	América del norte	
+ubicación.país	Estados Unidos	
+ubicación.código_país	A NOSOTROS	
+ubicación.ciudad	Ashburn	
+ubicación.código_postal	20149	
+ubicación.zona horaria	América/Nueva_York	
+ubicación.provincia	Virginia	
+ubicación.coordenadas.latitud	39.0469	
+ubicación.coordenadas.longitud	-77.4903	
+ubicación.país_registrado	Estados Unidos	
+ubicación.código_país_registrado	A NOSOTROS	
+ubicación_actualizada_en	2022-09-12T06:36:31.551106Z	
+sistema_autónomo.asn	14618	
+sistema_autónomo.descripción	AMAZON-AES	
+sistema_autónomo.bgp_prefix	52.200.0.0/13	
+sistema_autónomo.nombre	AMAZON-AES	
+sistema_autónomo.código_país	A NOSOTROS	
+sistema_autónomo_actualizado_en	2022-09-14T14:28:38.835455Z	
+dns.nombres	instacart.ca	
+dns.nombres	ec2-52-201-167-99.compute-1.amazonaws.com	
+dns.nombres	instacart.com	
+dns.nombres	pbis.instacart.com	
+dns.nombres	inst.cr	
+dns.nombres	samsclub.instacart.com	
+dns.records.ec2-52-201-167-99.compute-1.amazonaws.com.record_type	A	
+dns.records.ec2-52-201-167-99.compute-1.amazonaws.com.resolved_at	2022-09-16T13:03:47.050377010Z	
+dns.records.samsclub.instacart.com.record_type	A	
+dns.records.samsclub.instacart.com.resolved_at	2022-09-15T13:50:58.796161775Z	
+dns.records.pbis.instacart.com.record_type	A	
+dns.records.pbis.instacart.com.resolved_at	2022-08-22T14:05:56.979028989Z	
+dns.records.inst.cr.record_type	A	
+dns.records.inst.cr.resolved_at	2022-09-04T11:06:48.675757793Z	
+dns.records.instacart.ca.record_type	A	
+dns.records.instacart.ca.resolved_at	2022-08-25T12:48:33.858274044Z	
+dns.records.instacart.com.record_type	A	
+dns.records.instacart.com.resolved_at	2022-09-09T13:50:39.243312170Z	
+dns.reverse_dns.nombres	ec2-52-201-167-99.compute-1.amazonaws.com	
+dns.reverse_dns.resolved_at	2022-08-31T01:37:41.927044133Z	
+última_actualización_a las	2022-09-16T13:35:13.372Z
+
+Con esta herramienta podemos ver datos de la dirrección IP obtenida (la primera)
+Es una empresa de los Estados Unidos en la ciudad de ASHBURN, se puede ver el código postal, el estado, la localización en coordenadas, y servidores de Amazon.
+
+LANZAMOS CON AMASS PASIVO
+
+ amass enum -v -passive -d instacart.com -src -oA scan
+
+RESPUESTA
+
+Querying FullHunt for instacart.com subdomains
+Querying Gists for instacart.com subdomains                                                                                                                                                                  
+Querying Greynoise for instacart.com subdomains                                                                                                                                                              
+Querying Riddler for instacart.com subdomains                                                                                                                                                                
+Querying Sublist3rAPI for instacart.com subdomains                                                                                                                                                           
+Querying Brute Forcing for instacart.com subdomains                                                                                                                                                          
+Querying Crtsh for instacart.com subdomains                                                                                                                                                                  
+Querying URLScan for instacart.com subdomains                                                                                                                                                                
+Querying Censys for instacart.com subdomains                                                                                                                                                                 
+Querying HAW for instacart.com subdomains                                                                                                                                                                    
+Querying SiteDossier for instacart.com subdomains                                                                                                                                                            
+Querying Arquivo for instacart.com subdomains                                                                                                                                                                
+Querying Baidu for instacart.com subdomains                                                                                                                                                                  
+Querying GoogleCT for instacart.com subdomains                                                                                                                                                               
+Querying Mnemonic for instacart.com subdomains                                                                                                                                                               
+Querying Searx for instacart.com subdomains                                                                                                                                                                  
+Querying Maltiverse for instacart.com subdomains                                                                                                                                                             
+Querying CommonCrawl for instacart.com subdomains                                                                                                                                                            
+Querying Wayback for instacart.com subdomains                                                                                                                                                                
+Querying DNSDumpster for instacart.com subdomains                                                                                                                                                            
+Querying DuckDuckGo for instacart.com subdomains                                                                                                                                                             
+Querying RapidDNS for instacart.com subdomains                                                                                                                                                               
+Querying SonarSearch for instacart.com subdomains                                                                                                                                                            
+Querying ThreatMiner for instacart.com subdomains                                                                                                                                                            
+Querying HackerTarget for instacart.com subdomains                                                                                                                                                           
+Querying Searchcode for instacart.com subdomains                                                                                                                                                             
+Querying Ask for instacart.com subdomains                                                                                                                                                                    
+Querying HyperStat for instacart.com subdomains                                                                                                                                                              
+Querying Yahoo for instacart.com subdomains                                                                                                                                                                  
+Querying Bing for instacart.com subdomains                                                                                                                                                                   
+Querying AbuseIPDB for instacart.com subdomains                                                                                                                                                              
+Querying ArchiveIt for instacart.com subdomains                                                                                                                                                              
+Querying HackerOne for instacart.com subdomains                                                                                                                                                              
+Querying ThreatCrowd for instacart.com subdomains                                                                                                                                                            
+Querying BufferOver for instacart.com subdomains                                                                                                                                                             
+Querying CertSpotter for instacart.com subdomains                                                                                                                                                            
+Querying PKey for instacart.com subdomains                                                                                                                                                                   
+Querying IPv4Info for instacart.com subdomains                                                                                                                                                               
+Querying AnubisDB for instacart.com subdomains                                                                                                                                                               
+Querying Digitorus for instacart.com subdomains                                                                                                                                                              
+Querying N45HT for instacart.com subdomains                                                                                                                                                                  
+Querying Robtex for instacart.com subdomains                                                                                                                                                                 
+Querying AlienVault for instacart.com subdomains                                                                                                                                                             
+Querying UKWebArchive for instacart.com subdomains                                                                                                                                                           
+[DNS]             instacart.com   
+
+
+
+
+
+
+
+
+
+
+
+LANZAMOS CON SPIDERFOOT 
+
+spiderfoot -m sfp_dnsbrute -s instacart.com -q (tarda mucho y solo ha obtenido estos dos) 
+
+RESPUESTA
+
+Source                          Type                                            Data
+SpiderFoot UI                   Internet Name                                   instacart.com
+SpiderFoot UI                   Domain Name                                     instacart.com
+
+
+VOLVEMOS A LANZAR CON SPIDERFOOT 
+
+spiderfoot -m sfp_dnsresolve -s instacart.com -q  (
+
+RESPUESTA
+
+Source                          Type                                            Data
+SpiderFoot UI                   Internet Name                                   instacart.com
+SpiderFoot UI                   Domain Name                                     instacart.com
+sfp_dnsresolve                  IP Address                                      3.212.180.48
+sfp_dnsresolve                  IP Address                                      54.208.238.83
+sfp_dnsresolve                  IP Address                                      3.214.202.113
+sfp_dnsresolve                  IP Address                                      34.201.97.133
+sfp_dnsresolve                  IP Address                                      44.206.27.163
+sfp_dnsresolve                  IP Address                                      18.211.228.222
+sfp_dnsresolve                  Domain Name                                     instacart.com
+sfp_dnsresolve                  IP Address                                      100.25.71.223
+sfp_dnsresolve                  IP Address                                      54.209.244.235
+sfp_dnsresolve                  Internet Name                                   ec2-3-212-180-48.compute-1.amazonaws.com
+sfp_dnsresolve                  Domain Name (Parent)                            amazonaws.com
+sfp_dnsresolve                  Internet Name                                   ec2-54-208-238-83.compute-1.amazonaws.com
+sfp_dnsresolve                  Internet Name                                   ec2-3-214-202-113.compute-1.amazonaws.com
+sfp_dnsresolve                  Internet Name                                   ec2-34-201-97-133.compute-1.amazonaws.com
+sfp_dnsresolve                  Internet Name                                   ec2-44-206-27-163.compute-1.amazonaws.com
+sfp_dnsresolve                  Internet Name                                   ec2-18-211-228-222.compute-1.amazonaws.com
+sfp_dnsresolve                  Internet Name                                   ec2-100-25-71-223.compute-1.amazonaws.com
+sfp_dnsresolve                  Internet Name                                   ec2-54-209-244-235.compute-1.amazonaws.com
+
+
+LANZAMOS CON SPIDERFOOT
+
+spiderfoot -s instacart.com -q (esto es sin especificar el modulo)
+
+RESPUESTA
+
+Source                          Type                                            Data
+SpiderFoot UI                   Internet Name                                   instacart.com
+SpiderFoot UI                   Domain Name                                     instacart.com
+sfp_skymem                      Email Address                                   shoppers@instacart.com
+sfp_skymem                      Email Address - Generic                         marketing@instacart.com
+sfp_skymem                      Email Address                                   happycustomers@instacart.com
+sfp_skymem                      Email Address                                   jobs@instacart.com
+sfp_skymem                      Email Address                                   doug@instacart.com
+sfp_skymem                      Email Address                                   ordering@instacart.com
+sfp_skymem                      Email Address                                   bd@instacart.com
+sfp_skymem                      Email Address                                   legal@instacart.com
+sfp_skymem                      Email Address                                   press@instacart.com
+sfp_skymem                      Email Address                                   partners@instacart.com
+sfp_skymem                      Email Address                                   aditya@instacart.com
+sfp_skymem                      Email Address                                   shoppersupport@instacart.com
+sfp_skymem                      Email Address                                   info@instacart.com
+sfp_skymem                      Email Address                                   apoorva@instacart.com
+sfp_skymem                      Email Address                                   online@instacart.com
+sfp_skymem                      Email Address                                   tim@instacart.com
+sfp_skymem                      Email Address                                   copyright@instacart.com
+sfp_skymem                      Email Address                                   matt@instacart.com
+sfp_skymem                      Email Address                                   arbitration-opt-out@instacart.com
+sfp_skymem                      Email Address                                   amy@instacart.com
+sfp_skymem                      Email Address                                   help@instacart.com
+sfp_skymem                      Email Address                                   cs@instacart.com
+sfp_skymem                      Email Address                                   feedback@instacart.com
+sfp_skymem                      Email Address                                   brandon@instacart.com
+sfp_skymem                      Email Address                                   ler@instacart.com
+sfp_skymem                      Email Address - Generic                         no-reply@instacart.com
+sfp_skymem                      Email Address                                   derrick@instacart.com
+sfp_skymem                      Email Address                                   daniel.langston@instacart.com
+sfp_skymem                      Email Address                                   orders@instacart.com
+sfp_skymem                      Email Address                                   ash@instacart.com
+sfp_skymem                      Email Address                                   matthew@instacart.com
+sfp_skymem                      Email Address                                   nick@instacart.com
+sfp_skymem                      Email Address                                   sean@instacart.com
+sfp_skymem                      Email Address                                   david@instacart.com
+sfp_skymem                      Email Address                                   max@instacart.com
+sfp_skymem                      Email Address                                   maurice@instacart.com
+sfp_skymem                      Email Address                                   tye@instacart.com
+sfp_skymem                      Email Address                                   u003corders@instacart.com
+sfp_skymem                      Email Address                                   sid@instacart.com
+sfp_skymem                      Email Address                                   u003chappycustomers@instacart.com
+sfp_skymem                      Email Address                                   maksim@instacart.com
+sfp_skymem                      Email Address                                   csjobs@instacart.com
+sfp_skymem                      Email Address                                   fairway@instacart.com
+sfp_skymem                      Email Address - Generic                         sales@instacart.com
+sfp_skymem                      Email Address                                   u003cno-reply@instacart.com
+sfp_skymem                      Email Address                                   u003eml.jobs@instacart.com
+sfp_skymem                      Email Address                                   shoppersfood@instacart.com
+sfp_skymem                      Email Address                                   ml.jobs@instacart.com
+sfp_skymem                      Email Address                                   jaime@instacart.com
+sfp_skymem                      Email Address                                   vishwa@instacart.com
+
+
+
+
+
+subdominios asociados a un certificado. Se obtienen subdominios de un sitio web HTTPS.
+
+[-]  *.10box.pbis-cf.instacart.com
+10box.pbis-cf.instacart.com
+[-]  *.abc.pbis-cf.instacart.com
+abc.pbis-cf.instacart.com
+[-]  *.acme-markets.pbis-cf.instacart.com
+acme-markets.pbis-cf.instacart.com
+[-]  *.admin.instacart.com
+admin.instacart.com
+[-]  *.ads-blog.instacart.com
+ads-blog.instacart.com
+[-]  *.ads.instacart.com
+ads.instacart.com
+[-]  *.ajs-fine-foods.pbis-cf.instacart.com
+ajs-fine-foods.pbis-cf.instacart.com
+[-]  *.albertsons-market-street.pbis-cf.instacart.com
+albertsons-market-street.pbis-cf.instacart.com
+[-]  *.albertsons.pbis-cf.instacart.com
+albertsons.pbis-cf.instacart.com
+[-]  *.aldi.pbis-cf.instacart.com
+aldi.pbis-cf.instacart.com
+[-]  *.aldi.postcheckout-cf.instacart.com
+aldi.postcheckout-cf.instacart.com
+[-]  *.amaranth.pbis-cf.instacart.com
+amaranth.pbis-cf.instacart.com
+[-]  *.andronicos.pbis-cf.instacart.com
+andronicos.pbis-cf.instacart.com
+[-]  *.api-catalog.instacart.com
+api-catalog.instacart.com
+[-]  *.api.ads.instacart.com
+api.ads.instacart.com
+[-]  *.api.instacart.com
+api.instacart.com
+[-]  *.atlantic-superstore.pbis-cf.instacart.com
+atlantic-superstore.pbis-cf.instacart.com
+[-]  *.balduccis.pbis-cf.instacart.com
+balduccis.pbis-cf.instacart.com
+[-]  *.bartell-drugs.pbis-cf.instacart.com
+bartell-drugs.pbis-cf.instacart.com
+[-]  *.bashas.pbis-cf.instacart.com
+bashas.pbis-cf.instacart.com
+[-]  *.berkeley-bowl.pbis-cf.instacart.com
+berkeley-bowl.pbis-cf.instacart.com
+[-]  *.bi-rite-market.pbis-cf.instacart.com
+bi-rite-market.pbis-cf.instacart.com
+[-]  *.binnys.pbis-cf.instacart.com
+binnys.pbis-cf.instacart.com
+[-]  *.bjs.pbis-cf.instacart.com
+bjs.pbis-cf.instacart.com
+[-]  *.bjstest.pbis-cf.instacart.com
+bjstest.pbis-cf.instacart.com
+
+
+spiderfoot -m sfp_dnsbrute -s instacart.com -q     
+
+Source                          Type                                            Data
+SpiderFoot UI                   Internet Name                                   instacart.com
+SpiderFoot UI                   Domain Name                                     instacart.com
+sfp_dnsbrute                    Internet Name                                   admin.instacart.com
+sfp_dnsbrute                    Internet Name                                   affiliate.instacart.com
+sfp_dnsbrute                    Internet Name                                   api.instacart.com
+sfp_dnsbrute                    Internet Name                                   atlas.instacart.com
+sfp_dnsbrute                    Internet Name                                   assets.instacart.com
+sfp_dnsbrute                    Internet Name                                   beta.instacart.com
+sfp_dnsbrute                    Internet Name                                   bugs.instacart.com
+sfp_dnsbrute                    Internet Name                                   catalog.instacart.com
+sfp_dnsbrute                    Internet Name                                   corporate.instacart.com
+sfp_dnsbrute                    Internet Name                                   cvs.instacart.com
+sfp_dnsbrute                    Internet Name                                   dc.instacart.com
+sfp_dnsbrute                    Internet Name                                   developers.instacart.com
+sfp_dnsbrute                    Internet Name                                   docs.instacart.com
+sfp_dnsbrute                    Internet Name                                   email.instacart.com
+sfp_dnsbrute                    Internet Name                                   ex.instacart.com
+sfp_dnsbrute                    Internet Name                                   incoming.instacart.com
+sfp_dnsbrute                    Internet Name                                   login.instacart.com
+sfp_dnsbrute                    Internet Name                                   news.instacart.com
+sfp_dnsbrute                    Internet Name                                   partners.instacart.com
+sfp_dnsbrute                    Internet Name                                   secure.instacart.com
+sfp_dnsbrute                    Internet Name                                   sftp.instacart.com
+sfp_dnsbrute                    Internet Name                                   www.instacart.com
+
+
+
+
+
+
+
+
+
+
+
+
