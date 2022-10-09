@@ -13,6 +13,6 @@ Las herramientas que se ha empleado han sido Ciberchef, JWT.io.
 
 
 
-En el documento "INFORME PENTESTING", se ha tratado de realizar la búsqueda y explotación de las posibles vulnerabilidades de la máquina Mestaploitable y de la aplicación Web Badstore. Las herramientas empleadas con el hacking de sistemas han sido las presentadas durante las clases, como nmap, nessus, msfconsole,xhydra, wireshark, burpsuite y apache.
+En el documento "INFORME PENTESTING", se ha tratado de realizar la búsqueda y explotación de las posibles vulnerabilidades de la máquina Mestaploitable y de la aplicación Web Badstore. Las herramientas empleadas con  hacking de sistemas y hacking web han sido las presentadas durante las clases, como nmap, nessus, msfconsole,xhydra, wireshark, burpsuite y apache.
 
 
