@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?><?mso-application progid="Excel.Sheet"?><Workbook xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:x2="urn:schemas-microsoft-com:office:excel2" xmlns:html="http://www.w3.org/TR/REC-html40" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882">
+ <x:ExcelWorkbook>
+  <x:ActiveSheet>0</x:ActiveSheet>
+ </x:ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Verdana" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S21">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#1A1A1A" ss:FontName="Verdana" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S22">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#1A1A1A" ss:FontName="Verdana" ss:Size="10" />
+   <ss:Interior ss:Color="#EEF1F1" ss:Pattern="Solid" />
+  </Style>
+  <Style ss:ID="S23">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#1A1A1A" ss:FontName="Verdana" ss:Size="10" />
+   <ss:NumberFormat ss:Format="d/m/yyyy h:mm:ss" />
+  </Style>
+  <Style ss:ID="S24">
+   <ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#1A1A1A" ss:FontName="Verdana" ss:Size="10" />
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Hoja 1">
+  <ss:Names />
+  <ss:Table ss:DefaultRowHeight="15.75" ss:DefaultColumnWidth="67.5" ss:ExpandedRowCount="6" ss:ExpandedColumnCount="16">
+   <Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="105" />
+   <Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="101.25" />
+   <Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="108.75" />
+   <Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="74.25" />
+   <Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="131.25" />
+   <Column ss:Index="7" ss:Span="1" ss:AutoFitWidth="0" ss:Width="125.25" />
+   <Column ss:Index="9" ss:AutoFitWidth="0" ss:Width="108.75" />
+   <Column ss:Index="10" ss:AutoFitWidth="0" ss:Width="109.5" />
+   <Column ss:Index="11" ss:AutoFitWidth="0" ss:Width="93" />
+   <Row ss:Index="1">
+    <Cell ss:StyleID="S21"><Data ss:Type="String">ID EXTERNO</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Nº TRANSACCIÓN</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TIPO DE PROCESO</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">MÉTODO DE ENVÍO</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">EMISOR</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">FECHA DE CREACIÓN</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">ESTADO 1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">ESTADO 2</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">FECHA DE CIERRE</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TIPO DE DOCUMENTO</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Nº DOCUMENTO</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">EMAIL</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">TELÉFONO </Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">NOMBRE</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">APELLIDO 1</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">APELLIDO 2</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="2">
+    <Cell ss:StyleID="S22"><Data ss:Type="Number">879865</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">2222411113234568.p</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Video identificación</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Email</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">10009</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="DateTime">2022-11-24T10:00:45.000</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">7</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Finalizado</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="DateTime">2022-11-24T10:15:23.000</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">DNI Nacional</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">56789063L</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">jgonzalezgarcía@gmail.com</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">665447788</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">José</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Gonzalez</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">García</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="3">
+    <Cell ss:StyleID="S22"><Data ss:Type="Number">879866</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">2222411113234569.p</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Video identificación</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Email</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">10010</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="DateTime">2022-11-24T12:11:25.000</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">5</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Cerrada: tiempo expirado</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="DateTime">2022-11-27T12:11:25.000</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Pasaporte Nacional</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">A26785466800</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">maríagarcía@hotmail.com</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">688976579</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">María</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">García</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">García</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="4">
+    <Cell ss:StyleID="S22"><Data ss:Type="Number">879867</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">2222411113234570.p</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Video identificación</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Email</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">74422</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="DateTime">2022-11-25T15:12:34.000</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">7</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Finalizado</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="DateTime">2022-11-26T23:25:30.000</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">NIE Nacional</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">X68933475M</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">davidhmaestre@sicero.com</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">667894323</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">David</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Hernández</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Maestre</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="5">
+    <Cell ss:StyleID="S22"><Data ss:Type="Number">879868</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">2222411113234571.p</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Video identificación</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Email</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">11004</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="DateTime">2022-11-25T16:11:22.000</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">8</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Rechazada por autorizador</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="DateTime">2022-11-25T18:36:55.000</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Pasaporte extranjero</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">AC7689H86777</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">dianesmith@gmail.com</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">620406783</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Diane</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Margerit</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Smith</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="6">
+    <Cell ss:StyleID="S22"><Data ss:Type="Number">879869</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">2222411113234572.p</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Video identificación</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Email</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">11005</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="DateTime">2022-11-26T18:25:44.000</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">3</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">En curso</Data>
+    </Cell>
+    <Cell ss:StyleID="S24"><Data ss:Type="String">-</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">DNI extranjero</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">FCG76890H</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">bernardfrancois@hotmail.com</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">650345679</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Francois</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Bernard</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Martin</Data>
+    </Cell>
+   </Row>
+  </ss:Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup />
+   <Print>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+  </WorksheetOptions>
+  <x:ConditionalFormatting>
+   <x:Range>R1C1:R30C16</x:Range>
+   <x:Condition>
+    <x:Value1>LEN(TRIM(RC))&gt;0</x:Value1>
+    <x:Value2 />
+    <x:Format Style="background:#B7E1CD;mso-pattern:#B7E1CD none" />
+   </x:Condition>
+  </x:ConditionalFormatting>
+ </Worksheet>
+</Workbook>
