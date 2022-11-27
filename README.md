@@ -16,3 +16,4 @@ Las herramientas que se ha empleado han sido Ciberchef, JWT.io.
 En el documento "INFORME PENTESTING", se ha tratado de realizar la búsqueda y explotación de las posibles vulnerabilidades de la máquina Mestaploitable y de la aplicación Web Badstore. Las herramientas empleadas con  hacking de sistemas y hacking web han sido las presentadas durante las clases, como nmap, nessus, msfconsole,xhydra, wireshark, burpsuite y apache.
 
 
+En el documento "Machine Learning", se ha tratado de crear un caso de uso empleando como ejemplo un proceso de video identificación desatendida automatizado. Se intenta explicar cómo se desarrollaría el flujo del proceso, las condiciones que se deben tener en cuenta y las mejoras que se podrían realizar. Se agrega como ejemplo un archivo en varios formatos, con datos no reales. Este archivo recoge como ejemplo, cómo se extraerían los informes de seguimiento.
