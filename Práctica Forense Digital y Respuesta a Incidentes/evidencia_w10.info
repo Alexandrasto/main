@@ -1,0 +1,289 @@
+
+GUYMAGER ACQUISITION INFO FILE
+==============================
+
+Guymager
+========
+
+Version                        : 0.8.13-beta-tsurugi-1                                               
+Version timestamp              : 2021-08-27-21.46.29 UTC                                             
+Compiled with                  : gcc 9.3.0                                                           
+Using Guymager's own EWF module
+libguytools version            : 2.1.0                                                               
+Host name                      : lab                                                                 
+Domain name                    : (none)                                                              
+System                         : Linux lab 5.15.12-tsurugi #1 SMP Thu Dec 30 17:06:21 CET 2021 x86_64
+
+
+Device information
+==================
+Command executed: bash -c "search="`basename /dev/sdc`: H..t P.......d A..a de.....d" && dmesg | grep -A3 "$search" || echo "No kernel HPA messages for /dev/sdc""
+Information returned:
+----------------------------------------------------------------------------------------------------
+   No kernel HPA messages for /dev/sdc
+
+Command executed: bash -c "smartctl -s on /dev/sdc ; smartctl -a /dev/sdc"
+Information returned:
+----------------------------------------------------------------------------------------------------
+   smartctl 7.1 2019-12-30 r5022 [x86_64-linux-5.15.12-tsurugi] (local build)
+   Copyright (C) 2002-19, Bruce Allen, Christian Franke, www.smartmontools.org
+   
+   SMART support is: Unavailable - device lacks SMART capability.
+   A mandatory SMART command failed: exiting. To continue, add one or more '-T permissive' options.
+   smartctl 7.1 2019-12-30 r5022 [x86_64-linux-5.15.12-tsurugi] (local build)
+   Copyright (C) 2002-19, Bruce Allen, Christian Franke, www.smartmontools.org
+   
+   === START OF INFORMATION SECTION ===
+   Device Model:     VBOX HARDDISK
+   Serial Number:    VBc4fcadc4-b4c6e47b
+   Firmware Version: 1.0
+   User Capacity:    53,687,091,200 bytes [53.6 GB]
+   Sector Size:      512 bytes logical/physical
+   Device is:        Not in smartctl database [for details use: -P showall]
+   ATA Version is:   ATA/ATAPI-6 published, ANSI INCITS 361-2002
+   Local Time is:    Sun Jan 15 11:32:58 2023 EST
+   SMART support is: Unavailable - device lacks SMART capability.
+   
+   A mandatory SMART command failed: exiting. To continue, add one or more '-T permissive' options.
+
+Command executed: bash -c "hdparm -I /dev/sdc"
+Information returned:
+----------------------------------------------------------------------------------------------------
+   /dev/sdc:
+   
+   ATA device, with non-removable media
+   	Model Number:       VBOX HARDDISK                           
+   	Serial Number:      VBc4fcadc4-b4c6e47b 
+   	Firmware Revision:  1.0     
+   Standards:
+   	Used: ATA/ATAPI-6 published, ANSI INCITS 361-2002 
+   	Supported: 6 5 4 
+   Configuration:
+   	Logical		max	current
+   	cylinders	16383	16383
+   	heads		16	16
+   	sectors/track	63	63
+   	--
+   	CHS current addressable sectors:    16514064
+   	LBA    user addressable sectors:   104857600
+   	LBA48  user addressable sectors:   104857600
+   	Logical/Physical Sector size:           512 bytes
+   	device size with M = 1024*1024:       51200 MBytes
+   	device size with M = 1000*1000:       53687 MBytes (53 GB)
+   	cache/buffer size  = 256 KBytes (type=DualPortCache)
+   Capabilities:
+   	LBA, IORDY(cannot be disabled)
+   	Queue depth: 32
+   	Standby timer values: spec'd by Vendor, no device specific minimum
+   	R/W multiple sector transfer: Max = 128	Current = 128
+   	DMA: mdma0 mdma1 mdma2 udma0 udma1 udma2 udma3 udma4 udma5 *udma6 
+   	     Cycle time: min=120ns recommended=120ns
+   	PIO: pio0 pio1 pio2 pio3 pio4 
+   	     Cycle time: no flow control=120ns  IORDY flow control=120ns
+   Commands/features:
+   	Enabled	Supported:
+   	   *	Power Management feature set
+   	   *	Write cache
+   	   *	Look-ahead
+   	   *	48-bit Address feature set
+   	   *	Mandatory FLUSH_CACHE
+   	   *	FLUSH_CACHE_EXT
+   	   *	Gen2 signaling speed (3.0Gb/s)
+   	   *	Native Command Queueing (NCQ)
+   Checksum: correct
+
+Command executed: bash -c "CIDFILE=/sys/block/$(basename /dev/sdc)/device/cid; echo -n "CID: " ; if [ -e $CIDFILE ] ; then cat $CIDFILE  ; else echo "not available" ; fi "
+Information returned:
+----------------------------------------------------------------------------------------------------
+   CID: not available
+
+Hidden areas: unknown
+
+
+Acquisition
+===========
+
+Linux device            : /dev/sdc                                                           
+Device size             : 53687091200 (53.7GB)                                               
+Format                  : Expert Witness Format, sub-format Guymager - file extension is .Exx
+Image meta data         
+   Case number          : 0001                                                               
+   Evidence number      :                                                                    
+   Examiner             :                                                                    
+   Description          :                                                                    
+   Notes                : VBc4fcadc4-b4c6e47b                                                
+Image path and file name: /home/tsurugi/Desktop/evidencia_w/evidencia_w10.Exx                
+Info  path and file name: /home/tsurugi/Desktop/evidencia_w/evidencia_w10.info               
+Hash calculation        : MD5, SHA-1 and SHA-256                                             
+Source verification     : off                                                                
+Image verification      : on                                                                 
+
+No bad sectors encountered during acquisition.
+State: Finished successfully
+
+MD5 hash                   : 1bde0cea61acdcb3979beecb8c77a1a8                                
+MD5 hash verified source   : --                                                              
+MD5 hash verified image    : 1bde0cea61acdcb3979beecb8c77a1a8                                
+SHA1 hash                  : d890ec08171baea1d87e55d4596da499c174da56                        
+SHA1 hash verified source  : --                                                              
+SHA1 hash verified image   : d890ec08171baea1d87e55d4596da499c174da56                        
+SHA256 hash                : a87e7ca5c5bb287edb09bfdef50d48b3d4b263ec4732e3b2e7e9ee07cdd974e8
+SHA256 hash verified source: --                                                              
+SHA256 hash verified image : a87e7ca5c5bb287edb09bfdef50d48b3d4b263ec4732e3b2e7e9ee07cdd974e8
+Image verification OK. The image contains exactly the data that was written.
+
+Acquisition started : 2023-01-15 11:32:58 (ISO format YYYY-MM-DD HH:MM:SS)   
+Verification started: 2023-01-15 11:42:01                                    
+Ended               : 2023-01-15 11:49:00 (0 hours, 16 minutes and 2 seconds)
+Acquisition speed   : 94.29 MByte/s (0 hours, 9 minutes and 3 seconds)       
+Verification speed  : 122.20 MByte/s (0 hours, 6 minutes and 59 seconds)     
+
+
+Generated image files and their MD5 hashes
+==========================================
+
+No MD5 hashes available (configuration parameter CalcImageFileMD5 is off)
+MD5                               Image file
+n/a                               evidencia_w10.E01
+n/a                               evidencia_w10.E02
+n/a                               evidencia_w10.E03
+n/a                               evidencia_w10.E04
+n/a                               evidencia_w10.E05
+n/a                               evidencia_w10.E06
+n/a                               evidencia_w10.E07
+n/a                               evidencia_w10.E08
+n/a                               evidencia_w10.E09
+n/a                               evidencia_w10.E10
+n/a                               evidencia_w10.E11
+n/a                               evidencia_w10.E12
+n/a                               evidencia_w10.E13
+n/a                               evidencia_w10.E14
+n/a                               evidencia_w10.E15
+n/a                               evidencia_w10.E16
+n/a                               evidencia_w10.E17
+n/a                               evidencia_w10.E18
+n/a                               evidencia_w10.E19
+n/a                               evidencia_w10.E20
+n/a                               evidencia_w10.E21
+n/a                               evidencia_w10.E22
+n/a                               evidencia_w10.E23
+n/a                               evidencia_w10.E24
+n/a                               evidencia_w10.E25
+n/a                               evidencia_w10.E26
+n/a                               evidencia_w10.E27
+n/a                               evidencia_w10.E28
+n/a                               evidencia_w10.E29
+n/a                               evidencia_w10.E30
+n/a                               evidencia_w10.E31
+n/a                               evidencia_w10.E32
+n/a                               evidencia_w10.E33
+n/a                               evidencia_w10.E34
+n/a                               evidencia_w10.E35
+n/a                               evidencia_w10.E36
+n/a                               evidencia_w10.E37
+n/a                               evidencia_w10.E38
+n/a                               evidencia_w10.E39
+n/a                               evidencia_w10.E40
+n/a                               evidencia_w10.E41
+n/a                               evidencia_w10.E42
+n/a                               evidencia_w10.E43
+n/a                               evidencia_w10.E44
+n/a                               evidencia_w10.E45
+n/a                               evidencia_w10.E46
+n/a                               evidencia_w10.E47
+n/a                               evidencia_w10.E48
+n/a                               evidencia_w10.E49
+n/a                               evidencia_w10.E50
+n/a                               evidencia_w10.E51
+n/a                               evidencia_w10.E52
+n/a                               evidencia_w10.E53
+n/a                               evidencia_w10.E54
+n/a                               evidencia_w10.E55
+n/a                               evidencia_w10.E56
+n/a                               evidencia_w10.E57
+n/a                               evidencia_w10.E58
+n/a                               evidencia_w10.E59
+n/a                               evidencia_w10.E60
+n/a                               evidencia_w10.E61
+n/a                               evidencia_w10.E62
+n/a                               evidencia_w10.E63
+n/a                               evidencia_w10.E64
+n/a                               evidencia_w10.E65
+n/a                               evidencia_w10.E66
+n/a                               evidencia_w10.E67
+n/a                               evidencia_w10.E68
+n/a                               evidencia_w10.E69
+n/a                               evidencia_w10.E70
+n/a                               evidencia_w10.E71
+n/a                               evidencia_w10.E72
+n/a                               evidencia_w10.E73
+n/a                               evidencia_w10.E74
+n/a                               evidencia_w10.E75
+n/a                               evidencia_w10.E76
+n/a                               evidencia_w10.E77
+n/a                               evidencia_w10.E78
+n/a                               evidencia_w10.E79
+n/a                               evidencia_w10.E80
+n/a                               evidencia_w10.E81
+n/a                               evidencia_w10.E82
+n/a                               evidencia_w10.E83
+n/a                               evidencia_w10.E84
+n/a                               evidencia_w10.E85
+n/a                               evidencia_w10.E86
+n/a                               evidencia_w10.E87
+n/a                               evidencia_w10.E88
+n/a                               evidencia_w10.E89
+n/a                               evidencia_w10.E90
+n/a                               evidencia_w10.E91
+n/a                               evidencia_w10.E92
+n/a                               evidencia_w10.E93
+n/a                               evidencia_w10.E94
+n/a                               evidencia_w10.E95
+n/a                               evidencia_w10.E96
+n/a                               evidencia_w10.E97
+n/a                               evidencia_w10.E98
+n/a                               evidencia_w10.E99
+n/a                               evidencia_w10.EAA
+n/a                               evidencia_w10.EAB
+n/a                               evidencia_w10.EAC
+n/a                               evidencia_w10.EAD
+n/a                               evidencia_w10.EAE
+n/a                               evidencia_w10.EAF
+n/a                               evidencia_w10.EAG
+n/a                               evidencia_w10.EAH
+n/a                               evidencia_w10.EAI
+n/a                               evidencia_w10.EAJ
+n/a                               evidencia_w10.EAK
+n/a                               evidencia_w10.EAL
+n/a                               evidencia_w10.EAM
+n/a                               evidencia_w10.EAN
+n/a                               evidencia_w10.EAO
+n/a                               evidencia_w10.EAP
+n/a                               evidencia_w10.EAQ
+n/a                               evidencia_w10.EAR
+n/a                               evidencia_w10.EAS
+n/a                               evidencia_w10.EAT
+n/a                               evidencia_w10.EAU
+n/a                               evidencia_w10.EAV
+n/a                               evidencia_w10.EAW
+n/a                               evidencia_w10.EAX
+n/a                               evidencia_w10.EAY
+n/a                               evidencia_w10.EAZ
+n/a                               evidencia_w10.EBA
+n/a                               evidencia_w10.EBB
+n/a                               evidencia_w10.EBC
+n/a                               evidencia_w10.EBD
+n/a                               evidencia_w10.EBE
+n/a                               evidencia_w10.EBF
+n/a                               evidencia_w10.EBG
+n/a                               evidencia_w10.EBH
+n/a                               evidencia_w10.EBI
+n/a                               evidencia_w10.EBJ
+n/a                               evidencia_w10.EBK
+n/a                               evidencia_w10.EBL
+n/a                               evidencia_w10.EBM
+n/a                               evidencia_w10.EBN
+n/a                               evidencia_w10.EBO
+n/a                               evidencia_w10.EBP
+n/a                               evidencia_w10.EBQ
+n/a                               evidencia_w10.EBR
